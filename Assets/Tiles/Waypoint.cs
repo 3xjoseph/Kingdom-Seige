@@ -10,14 +10,13 @@ public class Waypoint : MonoBehaviour
     [SerializeField] bool isPlaceable;
     public bool IsPlaceable { get { return isPlaceable; } }
 
+
     void OnMouseDown() 
     {
         if (isPlaceable)
         {
-            towerPrefab.CreateTower();
-            //Instantiate(towerPrefab, transform.position, Quaternion.identity);
-            isPlaceable = false;
+            bool isPlaced = towerPrefab.CreateTower(towerPrefab, transform.position);
+            isPlaceable = !isPlaced;
         }
-        
     }
 }

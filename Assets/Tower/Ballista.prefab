@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3049131714819384361}
   - component: {fileID: 3020941299242103863}
-  - component: {fileID: 1663885799168868358}
+  - component: {fileID: 8005641561134989961}
   m_Layer: 0
   m_Name: Ballista
   m_TagString: Untagged
@@ -50,7 +50,7 @@ MonoBehaviour:
   weapon: {fileID: 3144582324300694500}
   projectileParticles: {fileID: 5186018710959895679}
   range: 15
---- !u!114 &1663885799168868358
+--- !u!114 &8005641561134989961
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
