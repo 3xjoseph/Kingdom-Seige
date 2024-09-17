@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Linq;
 
 [RequireComponent(typeof(Enemy))]
 public class EnemyMover : MonoBehaviour
@@ -26,16 +27,10 @@ public class EnemyMover : MonoBehaviour
     {
         path.Clear();
 
-        GameObject[] tiles = GameObject.FindGameObjectsWithTag("Path");
+        GameObject[] tiles = GameObject.FindGameObjectsWithTag("Path").OrderBy(w => w.transform.position.z).OrderBy(w => w.transform.position.x).ToArray();
 
-        foreach(GameObject tile in tiles) 
-        {
-            Waypoint waypoint = tile.GetComponent<Waypoint>();
-            if(waypoint != null)
-            {
-                path.Add(waypoint);
-            }
-        }
+        foreach(GameObject waypoint in tiles)
+            path.Add(waypoint.GetComponent<Waypoint>());
     }
 
     void ReturnToStart()
