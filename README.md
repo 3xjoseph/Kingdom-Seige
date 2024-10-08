@@ -1,5 +1,9 @@
 # Kingdom-Seige
 
+Link: https://play.unity.com/en/games/03b79e03-1122-4b2c-9396-87cf0b8b53f3/kingdom-seige
+
+Install: https://www.mediafire.com/file/uyvlitm03fwkj0b/Kingdom_Seige.exe/file
+
 Story:
 
 In a land where magic and might collide, two kingdoms once lived in harmony. The Kingdom of Eldoria, a peaceful realm blessed with fertile lands and rich resources, was envied by its neighbor, the Kingdom of Daragon. Driven by greed and hunger for power, Daragon’s ruthless ruler has launched a full-scale invasion, aiming to plunder Eldoria's wealth and bring its people to their knees.
