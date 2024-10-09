@@ -18,15 +18,7 @@ Gameplay:
 
 Build and Upgrade Defenses: Construct a variety of defensive towers, each with distinct abilities — from archer towers that rain down arrows to mage towers that unleash powerful elemental spells. Use resources wisely to upgrade your defenses, adding new abilities and increasing their range and power.
 
-Command Hero Units: Deploy unique hero units with special skills and abilities to turn the tide of battle. Each hero has a different role — from a knight who charges into enemy lines to a sorceress who can control the battlefield with powerful spells.
-
-Adaptive Strategy: Face a diverse array of enemies, each with their own strengths and weaknesses. Adapt your strategy by choosing the right combination of towers, traps, and hero units to counter the enemy’s tactics.
-
-Dynamic Environments: Battle across different biomes — from snowy mountain passes to lush forests and fiery volcanoes. Each location presents new challenges and opportunities for strategic positioning and defense.
-
 Resource Management: Collect resources from defeated enemies and use them to build and upgrade your defenses. Manage your resources carefully to ensure you’re prepared for tougher waves.
-
-Multiplayer Mode: Team up with friends in cooperative mode or face off against other players in PvP battles to see who can build the strongest defense or launch the most devastating attack.
 
 Art Style:
 
